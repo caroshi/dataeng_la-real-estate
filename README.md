@@ -6,7 +6,7 @@
 * [Project Deck](https://github.com/caroshi/moduleseven/blob/master/deliverables/DataEngDeck.pdf)
 * [Data](https://github.com/caroshi/moduleseven/tree/master/data) 
 * Pipeline and App Code :
-  * [API calls, Pandas DataFrame, CSV] (https://github.com/caroshi/moduleseven/blob/master/code/DataPipeline.py)
-  * [CSV to SQL db] (https://github.com/caroshi/moduleseven/blob/master/code/CSVtoSQl.py)
-  * [Streamlit] (https://github.com/caroshi/moduleseven/blob/master/code/Streamlit.py)
+  * [API calls, Pandas DataFrame, CSV](https://github.com/caroshi/moduleseven/blob/master/code/DataPipeline.py)
+  * [CSV to SQL db](https://github.com/caroshi/moduleseven/blob/master/code/CSVtoSQl.py)
+  * [Streamlit](https://github.com/caroshi/moduleseven/blob/master/code/Streamlit.py)
   
